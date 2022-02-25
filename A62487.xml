@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three letters of publick concernment as to the present affairs ... as also concerning the late publication of the covenant in all churches / by a person of quality and of a publick spirit.</title>
+            <author>Person of quality and of a publick spirit.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62487</idno>
+            <idno type="STC">Wing T1097</idno>
+            <idno type="STC">ESTC R38805</idno>
+            <idno type="EEBO-CITATION">18149167</idno>
+            <idno type="OCLC">ocm 18149167</idno>
+            <idno type="VID">106857</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62487)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106857)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1132:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three letters of publick concernment as to the present affairs ... as also concerning the late publication of the covenant in all churches / by a person of quality and of a publick spirit.</title>
+                  <author>Person of quality and of a publick spirit.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through, with loss of print.</note>
+                  <note>Reproduction of the original in the Huntington Library.</note>
+                  <note>(from t.p.) I. To a friend in London -- II. To the Lord General Monck, in behalf of monarchy and episcopacy -- III. Concerning the just placing of the legislative power and its influence upon ecclesiasticall laws and persons.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106857:1"/>
+            <pb facs="tcp:106857:1" rendition="simple:additions"/>
+            <p>THREE LETTERS OF Publick Concernment as to the Preſent Affairs: The
+<list>
+                  <item>I. To a Friend in <hi>London.</hi>
+                  </item>
+                  <item>II. To the Lord General <hi>Monck</hi> in behalf of <hi>Mo<g ref="char:EOLhyphen"/>narchy</hi> and <hi>Epiſcopacy.</hi>
+                  </item>
+                  <item>III. Concerning the juſt placing of the <hi>Legiſla<g ref="char:EOLhyphen"/>tive</hi> Power, and its influence upon <hi>Eccle<g ref="char:EOLhyphen"/>ſiaſticall</hi> Laws and Perſons.</item>
+               </list>
+            </p>
+            <p>AS ALSO Concerning the late Publication OF THE COVENANT in all Churches.</p>
+            <p>
+               <hi>By a Perſon of Quality and of a Publick Spirit.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed, 1660.</p>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:106857:2"/>
+                  <pb facs="tcp:106857:2"/>
+                  <p>THE FIRST LETTER from a Perſon of <hi>Quality,</hi> TO HIS Friend in the City OF LONDON.</p>
+                  <p>
+                     <hi>London,</hi> Printed, 1660.</p>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="letter">
+                  <pb facs="tcp:106857:3"/>
+                  <pb n="1" facs="tcp:106857:3"/>
+                  <head>The Firſt Letter from a Perſon of Quality to his friend in the Ci<g ref="char:EOLhyphen"/>ty of <hi>London.</hi>
+                  </head>
+                  <opener>
+                     <salute>Worthy Friend,</salute>
+                  </opener>
+                  <p>§. I. SInce my laſt (in a concurrence with the <hi>Generall,</hi> if not <hi>unanimous</hi> Vote of this Na<g ref="char:EOLhyphen"/>tion) this <hi>County</hi> hath ſent up a <hi>DECLA<g ref="char:EOLhyphen"/>RATION</hi> (being awaked out of that <hi>dull Lethargick stupifaction,</hi> that had long ſeized their Spirits to a <hi>quick reſentment</hi> of their own condition:) To ſolem<g ref="char:EOLhyphen"/>nize the approaching <hi>Funerals</hi> of the glory and hap<g ref="char:EOLhyphen"/>pineſſe of this <hi>Nation,</hi> with their ſad Complaints, if <hi>timely remedies</hi> be not applied, which I ſhall not diſ<g ref="char:EOLhyphen"/>paire of (ſince as <hi>Phyſitians</hi> tell me, the ſenſe and knowledge of the <hi>diſeaſe</hi> is a great advance towards, <hi>health;</hi>) And that thoſe hidden charms, that lay wrapt up in the proſtitute name of <hi>Parliament,</hi> to be<g ref="char:EOLhyphen"/>witch us, hath loſt its force; even with <hi>me</hi> and <hi>others<g ref="char:punc">▪</g>
+                     </hi> that once adored that great <hi>Diana,</hi> the <hi>Craftſmen</hi> or
+<pb n="2" facs="tcp:106857:4"/>
+                     <hi>Mechanicks</hi> of our times, ſet up even to the pulling down of <hi>Scepters, Laws, Religion,</hi> nay <hi>Parliaments</hi> them<g ref="char:EOLhyphen"/>ſelves, conſidered in their original <hi>Rights</hi> and <hi>Constitu<g ref="char:EOLhyphen"/>tions;</hi> though <hi>my deſigne</hi> was no more at the taking up of Arms, then <hi>their pretences,</hi> even a <hi>pruning off</hi> of luxurious excreſcencies in Church and State, not <hi>a digging up</hi> of the Vine; and in ſo much I am ſtill the ſame, though not in my <hi>Actings</hi> any longer, in coun<g ref="char:EOLhyphen"/>tenance of thoſe that departed from <hi>themſelves, Du<g ref="char:EOLhyphen"/>ties</hi> and <hi>Oaths;</hi> yet am I reſolved ever to oppoſe all <hi>exorbitances</hi> in State, <hi>Innovation</hi> in the Church, and <hi>invaſion</hi> of our Liberties I firſt engaged againſt; and in it agree, I think, with all <hi>truly wiſe</hi> and <hi>honeſt</hi> En<g ref="char:EOLhyphen"/>giiſhmen.</p>
+                  <p>§. II. And I conceive, theſe <hi>Conſiderations,</hi> and the like, have animated theſe parts into generous Reſo<g ref="char:EOLhyphen"/>lutions, if they cannot <hi>Vindicate</hi> their Rights, no longer to <hi>betray</hi> them by their <hi>ſilence</hi> and <hi>Compliances,</hi> daring to die their <hi>Counrries Martyrs,</hi> rather then not attempt their Duties, <hi>Reſolving</hi> with the <hi>Canta<g ref="char:EOLhyphen"/>brian</hi> to <hi>A<g ref="char:V">Ʋ</g>O<g ref="char:V">Ʋ</g>ST<g ref="char:V">Ʋ</g>S,</hi> though their goods of fortune may by <hi>Tyranny</hi> and <hi>
+                        <g ref="char:V">Ʋ</g>ſurpation</hi> be taken from them, they will be their own and Gods; and (having diſ<g ref="char:EOLhyphen"/>covered the great Impoſtures of the <hi>Mountebanks</hi> at <hi>Weſtminſter</hi>) will no longer be <hi>Cheated</hi> out of their deareſt Intereſts; ſeeing their pretences, how <hi>ſpecious</hi> ſo ever, are but a <hi>painted Flower</hi> upon a <hi>withered Stalk,</hi> a <hi>Devill</hi> in <hi>Samuels</hi> mantle: When under pretence of <hi>RELIGION,</hi> they let in <hi>Athieſm;</hi> and by abuſe of our <hi>LIBERTY,</hi> lay ſnares to <hi>enſlave</hi> us, turning our <hi>LAWS</hi> and <hi>Charters</hi> into <hi>Arbitrary Voies (The Negative voices and ballancing Interests of KING and LORDS being forced from us)</hi> yet by it they give us a holy advan<g ref="char:EOLhyphen"/>tage,
+<pb n="3" facs="tcp:106857:4"/>in ſhewing us that in our preſent Condition, we enjoy rather an <hi>Acry</hi> than <hi>reall</hi> being; when by a <hi>vapour,</hi> a <hi>breath,</hi> thoſe Senators may take away ours, (our <hi>Lives, Liberties</hi> and <hi>Religion</hi> at once.) And yet by it, they undermine thoſe pillars that ſhould ſup<g ref="char:EOLhyphen"/>port <hi>their own Houſes</hi> to Poſterity; and make Shack<g ref="char:EOLhyphen"/>les for their <hi>Children</hi> to wear.</p>
+                  <p>§. III. Nay ſo highly <hi>inſolent</hi> is their <hi>Cruelty,</hi> as they force us to be <hi>instrumental</hi> to our own ruines (by payments to ſupport their Uſurpation, and to twiſt a Cord to hang our ſelves) and are not onely <hi>acting,</hi> but <hi>enacting miſchief as Law,</hi> which ought to make <hi>Crimes</hi> not <hi>Virtue</hi> the object of its puniſh<g ref="char:EOLhyphen"/>ment; and to ſtand (as the Pin in the Ballance;) a middle thing between <hi>Supream power</hi> and <hi>Common Right,</hi> which they yet deny us, in obſtructing our enjoyment of a FREE PARLIAMENT, the onely prudentiall Remedy (under God) to <hi>compoſe</hi> our di<g ref="char:EOLhyphen"/>ſtractions, <hi>unite</hi> our Affections, and <hi>concenter</hi> all In<g ref="char:EOLhyphen"/>tereſts in a Conſciencious <hi>ſubmiſſion</hi> and <hi>obedience</hi> to <hi>lawfull Authority,</hi> the very <hi>Nerves,</hi> and <hi>Sinews,</hi> and <hi>Li<g ref="char:EOLhyphen"/>gaments</hi> that can keep the <hi>body Politick</hi> in a happy combination <hi>at home,</hi> and make it both reverenced and feared <hi>abroad, open</hi> Trade and <hi>ſecure</hi> (under God) all other bleſſings.</p>
+                  <p>§. IV. And therefore as your CITIES <hi>Declarati<g ref="char:EOLhyphen"/>on</hi> gave the firſt Invitation to other <hi>Counties</hi> to De<g ref="char:EOLhyphen"/>clare; I hope you will ſtill continue fixt (as the <hi>Cen<g ref="char:EOLhyphen"/>ter</hi> in the <hi>Circumference;</hi> however things move in their viciſſitudes about you) in your Reſolves to ſtand for a FREE and FULL PARLIAMENT.</p>
+                  <p>§. V. Which implies <hi>Freedom in Sitting</hi> from all force: <hi>Freedome in Elections to ſit</hi> (where the
+<pb n="4" facs="tcp:106857:5"/>known ancient Laws reſtrain not;) and <hi>Freedome from all previous Oathes</hi> and <hi>Engagements,</hi> as the Eſſen<g ref="char:EOLhyphen"/>tials and Elements, out of which it is Conſtituted; the <hi>Legiſlative</hi> Power (however it may <hi>regulate</hi> it ſelf, in its Actings) being never to be <hi>bound</hi> with humane Cords; Nay, not by it ſelf, in that it <hi>may</hi> (nay <hi>ought</hi>) to <hi>unlooſe</hi> the knots it ties; when publick <hi>In<g ref="char:EOLhyphen"/>terest</hi> and <hi>utility</hi> requires it: And therefore ſhould not be confined by any more <hi>high</hi> and <hi>ſacred</hi> bands; nor admit of diſcriminations of Perſons in law eligi<g ref="char:EOLhyphen"/>ble, which are but the breaſts, that feed and nouris;h <hi>Diviſions, Diſtractions</hi> and <hi>Animoſities</hi> amongſt us.</p>
+                  <p>§. VI. However ſince all <hi>humane law</hi> obliges Con<g ref="char:EOLhyphen"/>ſcience <hi>onely</hi> in things, which in their nature are <hi>in<g ref="char:EOLhyphen"/>different</hi> and <hi>Arbitrary,</hi> and that by our <hi>Fundamental Conſtitution,</hi> every mans Conſent is therefore preſu<g ref="char:EOLhyphen"/>med to concur <hi>actually</hi> (or <hi>virtually</hi> in his Proxies) in thoſe <hi>laws</hi> he is to be ſubmitted to (as may ap<g ref="char:EOLhyphen"/>pear by the <hi>Petition of Right.</hi>) We all <hi>unanimouſly Reſolve</hi> no more Taxes, Exciſes, Cuſtoms ought by the <hi>preſent Dictators</hi> to be laid upon us; and there<g ref="char:EOLhyphen"/>fore not to pay them, unleſſe charged by a FRFE PARLIAMENT, which we deſire may be inſinua<g ref="char:EOLhyphen"/>ted to your <hi>Common Councel;</hi> who have yet, carried themſelves with great ſhew of <hi>Gallantry, Prudence,</hi> and <hi>publick affection</hi> to the KINGDOMES <hi>Settlenent</hi> and <hi>peace.</hi> That as we <hi>aim</hi> at one Port, we may <hi>steer</hi> by one Compaſſe. And the better to take in all In<g ref="char:EOLhyphen"/>tereſts.</p>
+                  <p n="1">1. We ſhall deſire INDEMNITY to all that op<g ref="char:EOLhyphen"/>poſe not a FULL and FREE PARLIAMENT.</p>
+                  <p n="2">2. INDULGENCE to all TENDER CONSCI<g ref="char:EOLhyphen"/>ENCES, that ſeek <hi>Peace</hi> not <hi>Faction,</hi> with the <hi>Vindi<g ref="char:EOLhyphen"/>cation</hi>
+                     <pb n="5" facs="tcp:106857:5"/>of our ESTABLISHED RELIGION from <hi>all</hi> its <hi>Oppoſers.</hi>
+                  </p>
+                  <p n="3">3. The <hi>Souldiers</hi> SATISFACTION in relation to their <hi>Arreares,</hi> and for the preſent, the <hi>Counties</hi> will reſolve (if your City concurre) voluntarily to raiſe 60000 <abbr>l</abbr>, a month, and to pay it into the hands of their ſeveral <hi>Treaſurers;</hi> by them immediately to be paid to ſuch Regiments as the GENERAL and AR<g ref="char:EOLhyphen"/>MY ſhall aſſigne to each <hi>County;</hi> (and this to conti<g ref="char:EOLhyphen"/>nue till a FREE PARLIAMENT take further care for them,) which will pay them <hi>fully</hi> for the future, and advance ſomething towards the <hi>Arreares,</hi> of thoſe that ſhall in this way witneſſe their <hi>good affecti<g ref="char:EOLhyphen"/>on</hi> to the <hi>Nation,</hi> &amp; redeem the prey out of the hands of thoſe <hi>Land-Pirates</hi> at <hi>Weſtminſter.</hi> Who all this while have made a gain of them and us;</p>
+                  <p>§. VII. In which we cannot doubt of my <hi>Lord Ge<g ref="char:EOLhyphen"/>neral MONCKS</hi> concurrence, he is in all opinions, a <hi>perſon</hi> of ſo <hi>intire a worth</hi> (though yet abuſed by the ſpecious pretences of a ruling <hi>faction</hi>) when he findes the greateſt part by much (if not all) of the <hi>Kingdome</hi> deſire it as the onely means to compoſe us <hi>at home,</hi> and ſecure us from <hi>many, now united</hi> and <hi>powerfull</hi> e<g ref="char:EOLhyphen"/>nemies <hi>abroad;</hi> eſpecially, if he will but conſider, how often this pretended RUMP of a <hi>Parliament,</hi> that poyſons all with their Helliſh Fumes hath been diſ<g ref="char:EOLhyphen"/>ſolved, as</p>
+                  <p n="1">1. By <hi>the Kings death</hi> (as all great <hi>Lawyers</hi> will a<g ref="char:EOLhyphen"/>gree) who was the <hi>moſt eſſentiall part</hi> of it; his <hi>Aſſent</hi> onely giving a <hi>being</hi> and <hi>animation</hi> to all <hi>Laws.</hi>
+                  </p>
+                  <p n="2">2. As the BILL it <hi>ſelf</hi> (by which they pretend to disinherit the <hi>Primo-Geniture</hi> of the <hi>Trienniall Act,</hi>) Refers to the <hi>Parliament,</hi> as then compoſed of <hi>three
+<pb n="6" facs="tcp:106857:6"/>Estates,</hi> when one diſſenting, no <hi>Act</hi> could paſs.</p>
+                  <p n="3">3. <hi>By their ſeveral Diſſolutions</hi> and <hi>Submiſſions</hi> to other called <hi>Parliaments,</hi> and by moſt of their ſittings as <hi>members</hi> in them.</p>
+                  <p n="4">4. <hi>By the Counties new Elections,</hi> which was an <hi>act<g ref="char:EOLhyphen"/>uall revocation</hi> of their <hi>Trust</hi> and <hi>Power.</hi>
+                  </p>
+                  <p n="5">5. <hi>By the forfeiture of their rights</hi> to ſit as a HOUSE OF COMMONS in the forcible expulſion of the <hi>beſt part</hi> of their <hi>members.</hi>
+                  </p>
+                  <p n="6">6. <hi>By their breach of Trust,</hi> their <hi>Commiſſions</hi> (as de<g ref="char:EOLhyphen"/>legated by their <hi>Elections</hi>) being onely <hi>to adviſe</hi> with the KING in <hi>(rebus arduis)</hi> weighty affairs (not to <hi>deſtroy</hi> him) as appears by the <hi>Writs of Summons;</hi> And all this, with the violation of their <hi>faith</hi> both to <hi>God</hi> and <hi>man;</hi> wilfull breaches of their <hi>Declarations, Oaths</hi> and <hi>Covenants;</hi> So as a perſon of <hi>General</hi> MONCKS <hi>worth</hi> and <hi>honour</hi> can never, upon digeſt<g ref="char:EOLhyphen"/>ed thoughts, eſpouſe their <hi>Cauſe</hi> and <hi>Crimes</hi> by his protecting them; <hi>however,</hi> he is a <hi>perſon</hi> of too much <hi>piety</hi> and <hi>prudence;</hi> to engage us in a <hi>Civil</hi> and <hi>for<g ref="char:EOLhyphen"/>reign War</hi> at once (where ſo <hi>faire</hi> and <hi>just</hi> an expedi<g ref="char:EOLhyphen"/>ent, as a FREE and FULL PARLIAMENT to be called by the <hi>Triennial Act</hi> is propoſed) for the skirts and rag of an <hi>expired Parliament,</hi> which would botch up a garment, onely for their own wearing, leaving us ſtript and naked by depriving us of all our <hi>Rights,</hi> and all this for the maintaining their <hi>guilt</hi> and <hi>Inte<g ref="char:EOLhyphen"/>reſt,</hi> who care not to prevent, the rack of our <hi>Ship of State,</hi> wherein <hi>all</hi> are imbarked, if they may but ſtand upon land <hi>themſelves;</hi> And therefore be not diſcour<g ref="char:EOLhyphen"/>aged by what hath yet appeared, but let us do our duties, and leave the event to <hi>God;</hi> which is the re<g ref="char:EOLhyphen"/>ſolution of,</p>
+                  <closer>
+                     <signed>
+                        <hi>Your</hi> lately converted Servant</signed>
+                  </closer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:106857:6"/>
+                  <p>The Second LETTER to the Lord Generall MONCK In behalf of <hi>MONARCHY AND EPISCOPACY:</hi> Upon the Readmiſſion of the (formerly) Secluded MEMBERS OF <hi>PARLIAMENT.</hi>
+                  </p>
+                  <p>
+                     <hi>London,</hi> Printed, 1660.</p>
+               </div>
+            </front>
+            <body>
+               <div n="2" type="letter">
+                  <pb n="8" facs="tcp:106857:7"/>
+                  <head>The ſecond Letter to the Lord Ge<g ref="char:EOLhyphen"/>neral <hi>Monck,</hi> upon the readmiſ<g ref="char:EOLhyphen"/>ſion of the (formerly) Secluded Members.</head>
+                  <opener>
+                     <salute>My HONO<g ref="char:V">Ʋ</g>RED LORD;</salute>
+                  </opener>
+                  <p>THough vertuous inclinations in their Infancy, &amp; <hi>Cradle</hi> are beſt Nurſed up with the <hi>Milk</hi> of Flat<g ref="char:EOLhyphen"/>tery and ſeeming Courtſhips; your full grown vir<g ref="char:EOLhyphen"/>tues (which like <hi>Saul</hi> amongſt the people, make you more eminent than others; and the eyes of our <hi>Iſrael</hi> to look upon you, as their Deliverer) will bear a more ingenious freedome; which makes me preſume (though none more truly honours your <hi>Prudence, Piety</hi> and PERSON than my ſelf) as I am here intruſt<g ref="char:EOLhyphen"/>ed to receive the correſponding intelligence from moſt Counties that have concentred their Hopes and Addreſſes in your LORDSHIP, you will Pardon me, if (as the <hi>burning-glaſſe</hi> that collects the ſcattered and looſe beams of the Sun, to give them a more power<g ref="char:EOLhyphen"/>full and vigorous operation) I reflect the united ſenſe of ALL to you; in relation to your <hi>Words</hi> and <hi>Actings.</hi>
+                  </p>
+                  <p>
+                     <pb n="9" facs="tcp:106857:7"/>
+The laſt of which, have been ſo <hi>prudent</hi> in Conduct, ſo <hi>daring</hi> (yet <hi>modeſt</hi>) in the approaches to your propoſed ends; and ſo ſucceſsfull in the great late changes, we look upon, as in lets to a ſettlement of the <hi>peace</hi> and <hi>happineſſe</hi> of this <hi>KINGDOME;</hi> as you ſtand yet unequalled by any in the <hi>opinions</hi> and <hi>affections</hi> of the people, even <hi>above men;</hi> and onely <hi>below GOD</hi> himſelf (&amp; OUR <hi>rightfull</hi> KING) who hath wrought ſo great wonders by you: And we hope will ſet faſt the bars of our gates, and eſtabliſh peace in our bor<g ref="char:EOLhyphen"/>ders by ſo <hi>glorious</hi> an <hi>Instrument,</hi> and in it record your memory to all poſterity, as the deliverer of this Nation from the high <hi>
+                        <g ref="char:V">Ʋ</g>ſurpation</hi> and ſevere <hi>Tyranny</hi> we have long laboured under.</p>
+                  <p>But my LORD in relation to your words, and De<g ref="char:EOLhyphen"/>clared deſires to the late reſtored Members of PAR<g ref="char:EOLhyphen"/>LIAMENT, there are few ſatisfied, but ſuch as hope that with <hi>Frederick</hi> Duke of <hi>Auſtria,</hi> you went abroad in a diſguiſe to hear what others judments were; by them and their reaſons (if convincing yours) to ſhape your future proceedings; or (if it were <hi>your judgement</hi>) that you did declare and enforce it with all the ad<g ref="char:EOLhyphen"/>vantage <hi>Oratory</hi> or <hi>Arguments</hi> could contribute to its ſupport; that in the <hi>confutation</hi> of them all perſons of thoſe <hi>miſtaken principles</hi> might be reduced by your <hi>example;</hi> who eſpouſes no intereſt but in order to <hi>Gods glory</hi> and the <hi>publick good;</hi> nor <hi>impoſe</hi> your o<g ref="char:EOLhyphen"/>pinion upon, but <hi>ſubmit</hi> it to the diſpaſſionate De<g ref="char:EOLhyphen"/>bates and Reſolutions of a FREE PARLIAMENT; which humility and ſelf denial is the crown and glo<g ref="char:EOLhyphen"/>ry of all your other noble Actions, and that which ſets you up a Scepter in the hearts of ALL (but <hi>Fa<g ref="char:EOLhyphen"/>ctions</hi> and <hi>Fanatick</hi> people, and gives you a Com<g ref="char:EOLhyphen"/>mand
+<pb n="10" facs="tcp:106857:8"/>of our <hi>Perſons</hi> and <hi>Purſes.</hi>
+                  </p>
+                  <p>Yet give me leave, as the Eccho of the KING<g ref="char:EOLhyphen"/>DOMES voice, to tell your <hi>Lordſhip,</hi> it neither is, or ever was, for the alteration of our MONAR<g ref="char:EOLhyphen"/>CHICALL GOVERNMENT into <hi>Common-wealth</hi> foundations, which are inconſiſtent with our ancient FUNDAMENTALL LAWS, and the humour of the people of this <hi>Nation;</hi> who comparing the long <hi>happy</hi> and <hi>flouriſhing</hi> condition it hath for many hun<g ref="char:EOLhyphen"/>dred years enjoyed under their KINGS, and <hi>Reve<g ref="char:EOLhyphen"/>rent</hi> Epiſcopacy, with the <hi>tragicall</hi> effects of our late changes; cannot be in love with their Irons and ſhac<g ref="char:EOLhyphen"/>kles; nor be willing to ſubmit to <hi>Papall-Presbyterial Tyranny</hi> (for ſuch is <hi>rigid Preſbytery</hi>) that have been acquainted with the gentler Yoke the <hi>Fathers</hi> of our <hi>Church</hi> laid upon us.</p>
+                  <p>And though I might make it appear to your Lord<g ref="char:EOLhyphen"/>ſhip by clear proofs, and undiſputed authorities from <hi>Reaſon, Nature, Scripture,</hi> and <hi>Authority.</hi>
+                  </p>
+                  <p>Firſt, <hi>That as all power is GODS, ſo there is no</hi> exer<g ref="char:EOLhyphen"/>ciſe <hi>of it from divine Commiſſion, but</hi> (paternal) <hi>what is ſeated in the perſon of one man</hi> originally; <hi>and</hi> deri<g ref="char:EOLhyphen"/>vatively <hi>onely from him (as the ſpring and ſource) in<g ref="char:EOLhyphen"/>to the leſſer</hi> ſtreames <hi>of ſubordinate adminiſtrations</hi> (<hi>which</hi> Adam <hi>was veſted in the state of innocency;</hi>) <hi>and that all men are borne to this</hi> naturall ſubordination; <hi>for the orderly ſupport of humane ſocieties,</hi> (families <hi>be<g ref="char:EOLhyphen"/>ing the epitomes of</hi> Kingdomes) <hi>wherein the</hi> perſon <hi>to whome the</hi> SUPREAME POWER <hi>belongs, is onely accountable to</hi> God <hi>for his Actions</hi> (KINGS <hi>being ſub<g ref="char:EOLhyphen"/>ject onely to the</hi> direction <hi>not</hi> coaction <hi>of humane</hi> Laws.</p>
+                  <p>Secondly, <hi>That our</hi> KINGS <hi>had this right justly con<g ref="char:EOLhyphen"/>veyed
+<pb n="11" facs="tcp:106857:8"/>to them by the</hi> grace of God (<hi>not</hi> gift of man) <hi>and by it have a just title to our</hi> allegiance <hi>and</hi> obedi<g ref="char:EOLhyphen"/>ence, <hi>both by</hi> divine <hi>and</hi> civill <hi>right, as all our</hi> Laws <hi>and</hi> PARLIAMENTS <hi>have declared.</hi>
+                  </p>
+                  <p>Thirdly, <hi>That</hi> King CHARLES <hi>the ſon</hi> (<hi>of his late</hi> glorious Father <hi>and our</hi> Soveraign) <hi>hath</hi> de jure, <hi>the ſame, and cannot without</hi> Rebellion (<hi>a ſin as high as that of</hi> witch craft) <hi>be denied him.</hi>
+                  </p>
+                  <p>Fourthly, <hi>That</hi> EPISCOPACY <hi>is of</hi> divine inſti<g ref="char:EOLhyphen"/>tution, <hi>an order deduced through all ages of</hi> Chriſts Church; <hi>and continued to us by</hi> lawfull <hi>and</hi> undoub<g ref="char:EOLhyphen"/>ted <hi>ordination.</hi>
+                  </p>
+                  <p>Fifthly, <hi>That</hi> Biſhops <hi>have in all ages had</hi> Reve<g ref="char:EOLhyphen"/>rence <hi>payed them as the</hi> Pillers <hi>&amp;</hi> ſupporters <hi>of</hi> Chri<g ref="char:EOLhyphen"/>ſtianity; <hi>by their</hi> pious learned <hi>and</hi> painfull <hi>labours, when</hi> living; <hi>and propagating it when</hi> dead, <hi>by their bloud ſhed in Martyrdome; when one</hi> dying man <hi>made many</hi> living Saints.</p>
+                  <p>Sixthly, <hi>That it was not the</hi> Calling, <hi>but</hi> exorbitan<g ref="char:EOLhyphen"/>cies <hi>in it; not the</hi> Tree, <hi>but the</hi> Luxurious branches <hi>theſe times at firſt complained of; and deſired to</hi> prune, <hi>not</hi> dig up.</p>
+                  <p>Seventhly, <hi>That it was a</hi> Government <hi>admired and approved by all the</hi> Reformed Churches <hi>abroad, as</hi> eſſen<g ref="char:EOLhyphen"/>tial <hi>to the</hi> bene eſſe <hi>of a Church; and by many learned Divines</hi> (ancient <hi>and</hi> modern) <hi>to the</hi> eſſe, <hi>the very</hi> be<g ref="char:EOLhyphen"/>ing <hi>of a Church.</hi>
+                  </p>
+                  <p>Eighthly, <hi>That</hi> Presbytery <hi>as propounded by our</hi> Sy<g ref="char:EOLhyphen"/>nod <hi>of</hi> Divines <hi>is of a bastard extraction, and a late birth; being a</hi> ſtranger <hi>to antiquity, and an</hi> alien <hi>late<g ref="char:EOLhyphen"/>ly legitimated amongſt us; a thing ſo far from being</hi> countenanced, <hi>as it was never</hi> known <hi>in the</hi> Chriſtian Church.</p>
+                  <p>
+                     <pb n="12" facs="tcp:106857:9"/>
+Yet waving <hi>all theſe</hi> and <hi>infinite more</hi> conſiderati<g ref="char:EOLhyphen"/>ons, I could offer (humbly caſting my ſelf upon your mercy for a pardon of this deviation) I ſhall not ſo much reflect upon your LORD-SHIPS <hi>reaſons</hi> a<g ref="char:EOLhyphen"/>gainſt introducing MONARCHY and EPISCOPA<g ref="char:EOLhyphen"/>CY; as to ſhew you they were never taken away by any <hi>just power;</hi> admit it were in the late PARLIA<g ref="char:EOLhyphen"/>MENT, when <hi>Full</hi> and <hi>Free,</hi> for untill ſeverall <hi>forces</hi> and <hi>violences</hi> were acted upon them, and the <hi>Secluded Members</hi> denied their Votes; There was no <hi>Regicide,</hi> (no murthering of the <hi>Heirs,</hi> that the <hi>Vineyard</hi> might be ours) no <hi>Votes</hi> for altering our <hi>ancient</hi> (and BEST FABRICATED <hi>Government</hi> in the world) but on the contrary, ALL the PARLIAMENTS <hi>Proteſta<g ref="char:EOLhyphen"/>tions, Declarations, Actions</hi> and <hi>Covenants</hi> were for KING <hi>and</hi> PARLIAMENT, <hi>Conjunctim</hi> not <hi>divi<g ref="char:EOLhyphen"/>ſim;</hi> and were ſo intended to be adhered to by our <hi>Confeſſours</hi> (though not <hi>Martyrs</hi>) the <hi>lately restored Members;</hi> and onely ſurviving honourable mention of that <hi>expired Parliament.</hi>
+                  </p>
+                  <p>Nor did the people of this <hi>Nation</hi> ever voluntarily contribute, either of their <hi>perſons</hi> or <hi>purſes</hi> to other ends then the <hi>Parliament</hi> had declared, even a <hi>confi<g ref="char:EOLhyphen"/>ning</hi> of <hi>arbitrary power,</hi> and <hi>keeping</hi> all things in their own bounds and channels, a <hi>reforming, a mending</hi> the the Watch, not the <hi>taking it</hi> in pieces</p>
+                  <p>So as the <hi>peoples Interests</hi> in this are ſafe, but can<g ref="char:EOLhyphen"/>not be entituled to the endeavours of the changes you mention, without a juſt forfeiture of all they en<g ref="char:EOLhyphen"/>joy; a maintaining of perpetuall diviſions <hi>at home,</hi> and inviting War from the injured perſons, and their now powerfull <hi>united confederates abroad;</hi> ha<g ref="char:EOLhyphen"/>ving no <hi>Free</hi> nor <hi>Full Parliament</hi> to countenance them in ſuch actings.</p>
+                  <p>
+                     <pb n="13" facs="tcp:106857:9"/>
+And that this was the ſenſe, the <hi>Covenant</hi> was ta<g ref="char:EOLhyphen"/>ken in, and of the <hi>Kingdome</hi> now in General; I deſire may be ſubmitted to their Votes in the FREE RE<g ref="char:EOLhyphen"/>PRESENTATIVE to be called, or that they may have a <hi>Ballut</hi> for it, and then they will appear a <hi>hun<g ref="char:EOLhyphen"/>dred</hi> for <hi>one</hi> to make it good.</p>
+                  <p>Nor is the <hi>glory</hi> of the <hi>City,</hi> and opening of <hi>Trade</hi> at home and abroad, to be boyed up by any other En<g ref="char:EOLhyphen"/>gine than what the name of KING actuates: It being the ſplendor of <hi>Courts,</hi> encreaſe of <hi>Nobility, Amities</hi> a<g ref="char:EOLhyphen"/>broad, and <hi>Peace</hi> at home, that loads the <hi>Vine</hi> with Cluſters, and makes the <hi>Wine-preſſe</hi> to overflow; as <hi>Londons</hi> experience evincingly may prove, if we compare their <hi>now withering</hi> and <hi>formerly ſprouting</hi> and <hi>flouriſhing</hi> condition together; ſo as a COM<g ref="char:EOLhyphen"/>MON-WEALTH in thoſe and many other reſpects, would rather prove a <hi>heightning</hi> to the diſeaſe, than a <hi>remedy.</hi>
+                  </p>
+                  <p>And for the <hi>Government</hi> of the <hi>Church,</hi> ſo far as it is <hi>prudential,</hi> it ought to be ſubmitted to the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> and a <hi>Convocation of Divines</hi> (juſtly called) but what is of <hi>Divine Right</hi> in it, ought to be preſerved and preferred <hi>before</hi> our <hi>Lives</hi> and <hi>Liberties.</hi>
+                  </p>
+                  <p>And therefore I moſt humbly contend for EPI<g ref="char:EOLhyphen"/>SCOPACY, as an <hi>order</hi> at leaſt (if not to maintain it in its primitive glory;) and in that none can be ſure there is a <hi>good Ordination</hi> without it (unleſſe in caſe <hi>extraordinary</hi>) and that all doe agree the <hi>Ordination</hi> by BISHOPS <hi>lawfull;</hi> we ought to chuſe a <hi>ſafe</hi> be<g ref="char:EOLhyphen"/>fore a <hi>doubtfull</hi> way, as all <hi>Caſuists</hi> agree.</p>
+                  <p>However, having fully, as I conceive, undermin'd the <hi>grounds</hi> and ſatisfied the <hi>reaſons,</hi> your LORD<g ref="char:EOLhyphen"/>SHIP
+<pb n="14" facs="tcp:106857:10"/>laid and urged for a <hi>Common-wealth;</hi> I ſhall proceed no further upon this head, ſince you have made my Concluſion; <hi>That</hi> EPISCOPACY <hi>holds beſt proportion and ſymmetry to</hi> MONARCHICALL GOVERNMENT; and that I have made it appear, there neither is, nor can be any other <hi>form justly</hi> intro<g ref="char:EOLhyphen"/>duced into this <hi>Nation.</hi>
+                  </p>
+                  <p>Yet to take in all Intereſts, and concenter them in a conſciencious obedience (the ſinew of Govern<g ref="char:EOLhyphen"/>ment) I wiſh <hi>both</hi> may be ſo moderated in their ex<g ref="char:EOLhyphen"/>erciſe of power, as <hi>there may be no more leading into captivity, nor complaining in our streets;</hi> But that the KING with his PARLIAMENT, and the BI<g ref="char:EOLhyphen"/>SHOPS with their <hi>Presbyters</hi> may joyn to make the cloſe of our <hi>Harmony</hi> moſt <hi>melodious.</hi>
+                  </p>
+                  <p>For thus our KING will have an inexhauſtible treaſure in the <hi>affections</hi> of his People; and they beſt ſecure their <hi>Liberties</hi> in becoming their SOVE<g ref="char:EOLhyphen"/>RAIGNES Favourites; which happy <hi>Eſpouſalls,</hi> I will yet hope to ſee YOU ſolemnize in a Concur<g ref="char:EOLhyphen"/>rence with the whole nation, whoſe deſire it is; as well as the prayers of</p>
+                  <closer>
+                     <signed>Your EXCELLENCIES moſt humble Servant</signed>
+                  </closer>
+               </div>
+               <div n="3" type="letter">
+                  <pb n="15" facs="tcp:106857:10"/>
+                  <head>
+                     <hi>The third Letter,</hi> Concerning the juſt placing of the Legiſlative Power, and its Influ<g ref="char:EOLhyphen"/>ence upon Eccleſiaſtical Laws and Perſons.</head>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">M</seg>
+                        <g ref="char:V">Ʋ</g>ch</hi> is due to you for your many repeated favours, but <hi>more</hi> for your Freedome in com<g ref="char:EOLhyphen"/>municating your judgment upon the late actings of the men of theſe times, which ſeem to be troubled with the <hi>vertigo</hi> in the brain, by their giddy and ſuddain turnings of the <hi>man</hi> (his reaſon) out of himſelf; and <hi>us</hi> out of all our deareſt Liber<g ref="char:EOLhyphen"/>ties and rights: Yet the Obligation ſwells <hi>highest</hi> by your humble deſcent in deſiring from me any thing that might either convince or confirme you in your opinion concerning the Juſt placing of the <hi>Legiſ<g ref="char:EOLhyphen"/>lative Power,</hi> and its influence upon <hi>Eccleſiaſticall laws</hi> and <hi>Perſons,</hi> when I can but bring a <hi>Spark</hi> to your <hi>Flame.</hi>
+                  </p>
+                  <p>However ſince your commands are to be <hi>ſubmiited</hi> to by me, not <hi>diſputed,</hi> I ſhall reflect my apprehen<g ref="char:EOLhyphen"/>ſion of it to you in a very contracted way in this ſur<g ref="char:EOLhyphen"/>priſe of time, and be ready to ſupport both by rea<g ref="char:EOLhyphen"/>ſon,
+<pb n="16" facs="tcp:106857:11"/>divine and humane <hi>Authority</hi> (if it be required) what I ſhall poſitively aſſert.</p>
+                  <p>And to the firſt I affirme.</p>
+                  <p>Firſt, <hi>That as</hi> God <hi>is the Spring and Fountain of all power.</hi> (<hi>it being</hi> eſſentiall <hi>in him and</hi> derivative <hi>only to us</hi>) <hi>none can have any juſt propriety in the</hi> Legiſla<g ref="char:EOLhyphen"/>tive, <hi>but ſuch who are Commiſſioned for it, according to Gods revealed Will by a</hi> Divine <hi>as well as</hi> Civill <hi>right.</hi>
+                  </p>
+                  <p>Secondly, <hi>That who otherwiſe</hi> takes <hi>or</hi> uſes <hi>the ſword invades both</hi> God <hi>and</hi> man <hi>in their rights; And in an</hi> unlawfull <hi>posture of ſubordination no</hi> juſt <hi>power can be derived, no more then a</hi> ſulphurous ſpring <hi>can ſend forth</hi> a ſweet ſtream; <hi>in that</hi> Quod deeſt in cauſa, deeſt in effectu.</p>
+                  <p>Thirdly, <hi>That the Delegation of the ſupreme power from God is either</hi> immediate <hi>as to</hi> Moſes, <hi>who was pla<g ref="char:EOLhyphen"/>ced by him as King in</hi> Jeſhurun, Deut. 33.3, 5. <hi>or</hi> me<g ref="char:EOLhyphen"/>diate, <hi>by the</hi> people (<hi>as in</hi> Elective <hi>Kingdoms</hi>) <hi>who chuſe the</hi> perſon, <hi>but never collate the</hi> power; <hi>or by</hi> both concurring, <hi>as in</hi> Saul, David, <hi>&amp;c. And that no other Government then what is</hi> Paternal <hi>and founded in a</hi> ſin<g ref="char:EOLhyphen"/>gle <hi>Perſon, is either of divine inſtitution, approbation, or imitation,</hi> (<hi>but</hi> That <hi>as the moſt</hi> perfect <hi>draws nea<g ref="char:EOLhyphen"/>rest to</hi> unitie, <hi>and a</hi> conformity <hi>to God himſelf</hi>) <hi>as I can make clearly appear from the</hi> light of Scripture, <hi>(the Chriſtians compaſſe to ſteer by)</hi> that of nature <hi>(the can<g ref="char:EOLhyphen"/>dle of the Lord ſet up and burning in ſockets amongſt the heathen) and by the</hi> inſtinct <hi>and</hi> impreſſion <hi>the very bruit and irrationall creatures forme themſelves by, into a kinde of</hi> Monarchicall <hi>government, yet I know</hi> In<g ref="char:EOLhyphen"/>terpreters <hi>(now) divide upon this ſubject, and runne in two Channells.</hi>
+                  </p>
+                  <p n="1">
+                     <pb n="17" facs="tcp:106857:11"/>
+1. Some in a concurrence with all <hi>anſſqility</hi> and the moſt eminent more <hi>moclora</hi> divines, reſolving that no Government is of <hi>divine origination</hi> and ſetled by commiſſion from God, but what is <hi>Faternal,</hi> where the <hi>habit</hi> of power is ſeated in <hi>one perſon,</hi> though the <hi>exerciſe</hi> of it may be regulated (through the indul<g ref="char:EOLhyphen"/>gence of good Princes) by <hi>Nationall</hi> and <hi>poſitive laws</hi> as well as <hi>divine;</hi> to the <hi>directive</hi> power of which the <hi>King</hi> ought to be as ſubject as his <hi>ſubjects,</hi> though not to the <hi>coactive,</hi> as being in that way onely anſwer<g ref="char:EOLhyphen"/>able to God for his actions.</p>
+                  <p>Which made our <hi>Government</hi> by King, Lords and Commons the beſt temperd conſtitution in the world, in that (as in the <hi>Naturall body</hi> an equall mix<g ref="char:EOLhyphen"/>ture of Elements) a juſt proportion and diſtribution of power in regard of <hi>exerciſe</hi> in the <hi>Civill</hi> and <hi>poli<g ref="char:EOLhyphen"/>tique</hi> beſt Fabricates it for a proſperous continuance, which the experience of this Nation did happlly e<g ref="char:EOLhyphen"/>vidence, till our having <hi>no King</hi> in <hi>Iſrael</hi> let in (as to the <hi>Jews</hi>) all Barbarity and impiety amongſt us.</p>
+                  <p n="2">2. Others of a more late ſtamp (that carries the im<g ref="char:EOLhyphen"/>preſſion of <hi>Jeſuitiſme</hi> upon it) as <hi>Buchanan</hi> and <hi>Knox</hi> for the <hi>reformed; Ballarmine</hi> and <hi>Stapleton</hi> for the <hi>Romiſh</hi> Church, reſolve all power from <hi>God</hi> into the <hi>people</hi> and <hi>Community</hi> of men, and to be derived from them either by their <hi>Individuall</hi> or <hi>repreſentative</hi> ſuffrages into any poſture of government they ſhall chuſe, whether <hi>Monarchicall, Ariftocraticall, Dema<g ref="char:EOLhyphen"/>craticall,</hi> or the like; in it (and the conſe quences of it) laying the Foundation of moſt of the <hi>Civill Wars</hi> and <hi>Commotions</hi> that have happened in Chriſtendom ſince their time.</p>
+                  <p>But however theſe ſtremns divide, and theſe ſines
+<pb n="18" facs="tcp:106857:12"/>are drawn Counter to one another, they both meet and concenter in that truth you deſire a conſirmati<g ref="char:EOLhyphen"/>on in, which is.</p>
+                  <p>That there is a conſcientious <hi>obedience,</hi> at leaſt <hi>ſubmiſſion</hi> due to the <hi>Legiſlative Power</hi> whereever we own it to be, and that by Gods command whe<g ref="char:EOLhyphen"/>ther to the <hi>King as ſupreme, Pet.</hi> 2.13. or <hi>higher Pow<g ref="char:EOLhyphen"/>ers</hi> in the other notion, in that <hi>they are of God, and they that reſiſt the power, reſist God, and purchaſe damnation to themſelves,</hi> Rom. 13.12. Other wayes there would be a progreſſion <hi>ad infinitum,</hi> no Center to unite in, no binding up of broken and divided intereſts, no common principles to meet in, nothing to reſolve our ſelves into, but <hi>Anarchy</hi> &amp; <hi>conſuſion:</hi> Wherein all law would be reduced from the <hi>boad</hi> to the <hi>hand,</hi> from <hi>prudence</hi> to <hi>power,</hi> the Arbitration of the <hi>Sword,</hi> the <hi>Will</hi> and <hi>luſts</hi> of men.</p>
+                  <p>Upon which ground all the ſober part of the king<g ref="char:EOLhyphen"/>dom, as if <hi>one Soul</hi> had animated <hi>ſo many bodies,</hi> have agreed in deſiring <hi>that one</hi> and <hi>onely expedient</hi> of a FREE PARLIAMENT, and both <hi>Armies</hi> have de<g ref="char:EOLhyphen"/>clared for it, ſo as I hope we ſhall all acquieſce in what ONE, ſo <hi>Freely</hi> called, ſhall declare and ſettle.</p>
+                  <p>Yet there want not <hi>Emiſſaries</hi> and <hi>boutefeus</hi> that to gratifie their <hi>paſſions</hi> and <hi>private intereſts,</hi> Foment our diſtractions, and in ſtead of cloſing, ſtrive to wi<g ref="char:EOLhyphen"/>den our Soars, and make our diſeaſe mortall, by op<g ref="char:EOLhyphen"/>poſing the remedie of a FULL and FREE PAR<g ref="char:EOLhyphen"/>LIAMENT killing us with their cordialls of <hi>ſpecious pertences, glorious nothings,</hi> and feeding us with <hi>Aire</hi> and <hi>Shadows</hi> inſtead of <hi>ſolid food</hi> (to bring us to a conſumptive death) the <hi>name</hi> and <hi>picture</hi> of Par<g ref="char:EOLhyphen"/>liament, onely to <hi>Idolize</hi> when they would deſtroy
+<pb n="19" facs="tcp:106857:12"/>the very <hi>being</hi> of it, with our <hi>Religion, Liberties,</hi> and <hi>Freedome</hi> at once.</p>
+                  <p>But the <hi>pit</hi> is <hi>diſcovered</hi> though ſtrewed over with Flowers, and I hope we are <hi>eſcaped</hi> the <hi>ſnare,</hi> by the <hi>prudence</hi> and <hi>publick ſpirit,</hi> our never to be enough honoured GENERALL hath ſhewed in the <hi>manage<g ref="char:EOLhyphen"/>ment</hi> and <hi>conduct</hi> of our <hi>greateſt</hi> and <hi>dearest intereſts.</hi>
+                  </p>
+                  <p>Yet the better to ſecure the bleſſings of a happy ſettlement, (a <hi>pregnant</hi> and <hi>comprehenſive</hi> mercy, the <hi>Wombe</hi> of all other Felicities) Let us ſtill with the wary Pilot have <hi>Oculos ad coelum, manus ad clavum:</hi> our <hi>eyes</hi> upon heaven, our <hi>hands</hi> at the ſterne, that we <hi>prevent</hi> the ſtorme, or <hi>ſaile ſafe</hi> in a rough ſea.</p>
+                  <p n="1">1. By <hi>our prayers to God,</hi> the aſcention of our ſpi<g ref="char:EOLhyphen"/>rits, the <hi>wing</hi> and <hi>weight</hi> of our ſoules by which we mount in our deſires and ſix in our dependencies up<g ref="char:EOLhyphen"/>on him for a bleſſing.</p>
+                  <p n="2">2. <hi>By endeavouring to advance the ſettling of that Government</hi> we moſt approve, by all <hi>Juſt, Open, he<g ref="char:EOLhyphen"/>nourable,</hi> and <hi>Faire</hi> wayes, being as <hi>zealous</hi> and <hi>active</hi> for GOD and the KING as others are for their too much adored IDOLL of PRESBYTERY &amp; a FREE STATE, till we ſee what a FREE PARLIAMENT will produce, but then to acquieſce in its reſolutions, as the onely <hi>ſuprem</hi> power now aſſerted, that can oblige us to a conſcientious <hi>ſubmiſſion</hi> (though per<g ref="char:EOLhyphen"/>haps not <hi>obedince</hi>) to their Lawes; the <hi>Legiſtator</hi> being above the <hi>Tribunall</hi> of <hi>men</hi> and onely accoun<g ref="char:EOLhyphen"/>table to <hi>God</hi> for his actions</p>
+                  <p>And therefore if any ſhall be guilty of ſo <hi>daring</hi> a <hi>preſumption</hi> as to <hi>impoſe</hi> upon their Judgments, or ſo <hi>high a rebellion</hi> as by force to <hi>oppoſe</hi> their com<g ref="char:EOLhyphen"/>mands, though Connter to their own Intereſts and opinions, or ſo <hi>Irreligiouſly bold</hi> with God, as not
+<pb n="20" facs="tcp:106857:13"/>to ſubmit to them for his ſake, we are here reſolved (we hope with LONDON and ALL other <hi>Counties</hi>) to maintain with our lives and fortunes the <hi>unlimi<g ref="char:EOLhyphen"/>ted power in regard of humane restraints and Confine<g ref="char:EOLhyphen"/>ments</hi> which we aſſert as due to a FULL FREE and <hi>legally called</hi> PARLIAMENT; having as <hi>good hearts,</hi> as <hi>good Swords,</hi> and a <hi>better cauſe</hi> to Fight for, then any can have to oppoſe us, in the vindication of the Parliaments undoubted <hi>Rights</hi> to an <hi>uſufructuary in<g ref="char:EOLhyphen"/>tereſt</hi> in the <hi>gubernative power.</hi>
+                  </p>
+                  <p>The Invaſion of whoſe Freedome in any kind ei<g ref="char:EOLhyphen"/>ther in <hi>Electing, ſitting,</hi> or <hi>voting</hi> is the deſtroying of its eſſence and being, a turning our <hi>antidotes</hi> into <hi>poyſon,</hi> And a taking from us all humane meanes of calming the <hi>raging of our Waters</hi> and <hi>madneſſe of our people,</hi> who will otherwayes make this nation a <hi>great Bedlam,</hi> a <hi>Wilderneſſe</hi> Inhabited by <hi>beaſts</hi> not <hi>men,</hi> a <hi>Chaos,</hi> that nothing but an Almighty Power can work upon, to produce <hi>beauty</hi> out of ſuch diſorder and confuſion, from which GOOD LORD DELI<g ref="char:EOLhyphen"/>VER US.</p>
+                  <div type="commentary">
+                     <head>Of the Influence of the Legiſlative Power upon Eccleſia<g ref="char:EOLhyphen"/>ſtical Laws and Perſons.</head>
+                     <p>AS to your ſecond Queſtion, <hi>how far the legiſlative power hath influence upon the Eccleſiaſtical,</hi> I think there can be no doubt, but that in the intention of our <hi>ancient laws,</hi> the Judgment of the <hi>Primitive Catho<g ref="char:EOLhyphen"/>lick Church,</hi> the ſuffrages and practices of <hi>all</hi> the <hi>re<g ref="char:EOLhyphen"/>formed ones</hi> and the <hi>rule of Scripture,</hi> they are as two great orbs in one <hi>Firmament,</hi> both moving from the <hi>Primum Mobile,</hi> in a motion <hi>orderly</hi> and <hi>Independing</hi> upon one another, acting accord<g ref="char:EOLhyphen"/>ing to their ſeveral powers and functions; although
+<pb n="21" facs="tcp:106857:13"/>
+                        <hi>ſubordinate,</hi> as members of one Community and Ci<g ref="char:EOLhyphen"/>vil body, ſo as the <hi>Civil Magistrate</hi> is ſupreme <hi>over their perſons,</hi> and in <hi>all Cauſes</hi> Eccleſiaſtical, in regard of their Animation to the Exerciſe of their powers; but not <hi>over them;</hi> For as the <hi>Miter</hi> is to obey the <hi>Scepter</hi> in all things prudential in Government, and to ſubmit to the regulation of their <hi>outward actings</hi> to their Commands: So the <hi>Scepter</hi> is not to inter<g ref="char:EOLhyphen"/>poſe in Caſes <hi>meerly Eccleſiastical,</hi> as in matters of Faith, making of Canons <hi>&amp;c.</hi> Onely in the inforcing of them, for the <hi>Regulation</hi> of the Church in <hi>Decency</hi> any <hi>Order</hi> (which S. <hi>Paul</hi> places in <hi>Church-men alone</hi>) nor did ever any age countenance the invaſion of the Clergies rights in it, which were to make an aſ<g ref="char:EOLhyphen"/>ſault upon <hi>God</hi> himſelf, and ſacrilegiouſly to force from his <hi>Spouſe,</hi> not onely her <hi>Jewells</hi> and <hi>Ornaments,</hi> but the richeſt <hi>dowry</hi> ſhe is inveſted with on earth.</p>
+                     <p>Nor can the <hi>diſorderly</hi> and <hi>excentrick</hi> motions and actings of the <hi>Clergy</hi> themſelves, in their unlawfull aſſemblies, lay a foundation for the <hi>Civil</hi> powers, im<g ref="char:EOLhyphen"/>poſing any thing upon us, in order to the change either of <hi>Doctrine</hi> or <hi>Diſcipline</hi> from what our anti<g ref="char:EOLhyphen"/>ent <hi>Laws</hi> or <hi>Canons</hi> preſcribe, Eſpecially when theirs in themſelves are ſo <hi>raw</hi> and <hi>undigeſted,</hi> as they do rather <hi>nauſeate</hi> then <hi>nouriſh.</hi>
+                     </p>
+                     <p>And therefore I hope it will be the <hi>prudence</hi> of the PARLIAMENT to work after God's patterne, doing all things in <hi>number, weight</hi> and <hi>meaſure, Or<g ref="char:EOLhyphen"/>der</hi> and <hi>proportion,</hi> being that alone that gives <hi>beauty</hi> and <hi>permanency</hi> to any being; and after ſo many wheelings, and revolutions returne to our <hi>antient, glorious</hi> and <hi>happy</hi> Government, by the KING, LORDS and COMMONS in <hi>Parliaments, Bi<g ref="char:EOLhyphen"/>ſhops</hi>
+                        <pb n="22" facs="tcp:106857:14"/>and <hi>Presbyters</hi> in their <hi>lawfully called nationall Synods;</hi> which <hi>ballancing</hi> of the <hi>Intereſts,</hi> cannot but unite the <hi>ſober, wiſe and moderate men</hi> of all parties, as I have expreſſed in my Letter to my <hi>Lord General Monck.</hi>
+                     </p>
+                     <p>For thus the <hi>Church</hi> can onely ſpeak in her repre<g ref="char:EOLhyphen"/>ſentatives, as we do in our Conventions, by our <hi>proxies,</hi> and <hi>the ſpirit of the prophets be ſubject to the prophets,</hi> as the Scripture commands; ſo as <hi>
+                           <g ref="char:V">Ʋ</g>zzah</hi>'s hands muſt not uphold the Ark, nor <hi>Corah</hi>'s conſpi<g ref="char:EOLhyphen"/>racy uſurp upon <hi>Moſes</hi> and <hi>Aaron,</hi> without engaging God as a party to revenge <hi>his owne cauſe</hi> and <hi>ſervants Interests.</hi>
+                     </p>
+                     <p>But when all things are done in a <hi>Juſt</hi> and <hi>orderly</hi> ſubordination, <hi>Laws</hi> carry <hi>reverence, honour</hi> and <hi>au<g ref="char:EOLhyphen"/>thority</hi> in them; and <hi>Religion</hi> is as the <hi>Baſes</hi> and <hi>Pil<g ref="char:EOLhyphen"/>lars</hi> of Civil power, <hi>That</hi> as the <hi>Roof</hi> and <hi>Covering</hi> of the Church, to defend her againſt all the ſtormes of perſecution; ſo as it is the happy union and combi<g ref="char:EOLhyphen"/>nation of both that makes the building <hi>durable</hi> and <hi>glorious,</hi> the well tuning of them to one another that makes the <hi>Harmony,</hi> when the one <hi>obeys</hi> all <hi>Civil In<g ref="char:EOLhyphen"/>junctions,</hi> the other <hi>actuates</hi> and <hi>enforces</hi> all <hi>Eccleſia<g ref="char:EOLhyphen"/>ſtical conſtitutions,</hi> for <hi>they</hi> onely bring the <hi>Bullion</hi> prepared for the Legiſlators Mint, he gives the <hi>Stamp</hi> that makes it currant, ſo as all <hi>Church-laws</hi> to oblige the <hi>inward</hi> &amp; <hi>outward</hi> man, ought to derive to us from the <hi>Clergy</hi> in a lawfull poſture, <hi>as their ſpring</hi> (by the <hi>Magiſtrate, as the ſtream;</hi>) the promiſe of the holy Ghoſt in regard of miniſterial function and govern<g ref="char:EOLhyphen"/>ment, being <hi>onely to them,</hi> as hath been fully proved <hi>by many,</hi> ſcarce ever denyed by any <hi>ſolid</hi> and <hi>ſober</hi> Chriſtian. Which is all I have now to ſay in relation to what you propoſe.</p>
+                  </div>
+               </div>
+               <div n="3" type="letter">
+                  <pb n="23" facs="tcp:106857:14"/>
+                  <head>The Third Leeter Of the late Publication of the Co<g ref="char:EOLhyphen"/>venant in all Churches.</head>
+                  <p>BUt there is an <hi>exile</hi> lately returned, with what deſigne; I know not (the publication of the CO<g ref="char:EOLhyphen"/>VENANT in all Churches) though it makes way for many conjectures, which I am not willing to publiſh, leaſt with the <hi>Schoolmen,</hi> in their unclean Speculati<g ref="char:EOLhyphen"/>ons, I ſhould teach men many vices they are yet <hi>Inno<g ref="char:EOLhyphen"/>cently ignorant</hi> of; Therefore I ſhall look upon it only as a <hi>well meant errour</hi> (being willing to extract virtue out of a <hi>Venemous</hi> and <hi>unwholſome</hi> plant) and put this interpretation upon it.</p>
+                  <p n="1">1. That it is onely meant to inſinuare into mens minds, that <hi>naturall duty</hi> they owe their. <hi>Soveraign</hi> both by <hi>divine</hi> and <hi>humane</hi> Laws; and bring them to that <hi>Allegiance</hi> due to their <hi>KING</hi> by a ſacred tye, ſo <hi>univerſally</hi> taken to <hi>ſupport</hi> not enervate their for<g ref="char:EOLhyphen"/>mer OATHS of FEALTY and <hi>obedience;</hi> Which my charity inclines me to, for it were too daring a ſinne for any Chriſtian to own the eſpouſing of any other ſence, and a ſuing out of a divorce from God, as done in oppoſition to his ordinances.</p>
+                  <p n="2">2. That in ſwearing to alter the Government of the Church (as it was, and is yet legally eſtabliſhed)
+<pb n="24" facs="tcp:106857:15" rendition="simple:additions"/>by <hi>Archbiſhops, Biſhops, Deans, Chapters, Officials,</hi> &amp;c. It cannot be interpreted to intend the extirpation of <hi>reverent, antient</hi> and APOSTOLICAL EPISCOPA<g ref="char:EOLhyphen"/>CY, becauſe the Oath Limits the intended reformati<g ref="char:EOLhyphen"/>on to the <hi>rule of Scripture,</hi> in which <hi>Epiſcopacy</hi> is moſt clearly eſtabliſhed and <hi>undoubtedly</hi> to be of the <hi>well being</hi> (if not <hi>being</hi> and <hi>Eſſence</hi>) of the <hi>Church,</hi> but only to deſigne (I hope in an <hi>Orderly Way</hi> of ſubordinati<g ref="char:EOLhyphen"/>on with the <hi>KINGS Concurrence</hi>) a breaking of the Chain, a diſſolving of that <hi>Hierarchy,</hi> and taking out ſuch links only as were of <hi>humane Authority,</hi> and per<g ref="char:EOLhyphen"/>haps <hi>ſuperfluous</hi> at this time, as they drew in a train of unneceſſary charges with them, and increaſe of <hi>Fees</hi> in <hi>Eccleſiaſticall Courts</hi> (though prudentially retai<g ref="char:EOLhyphen"/>ned in the reformation) but if any ſhall be ſo <hi>Igno<g ref="char:EOLhyphen"/>rantly bold,</hi> as to attempt more, it is to <hi>undermine,</hi> under a pretence of <hi>building, and</hi> to <hi>benight</hi> us by ob<g ref="char:EOLhyphen"/>ſcuring the great <hi>Lights</hi> of the Church and damming up the Fountain of it; when <hi>Epiſcopacy</hi> (as the <hi>Sun</hi>) is the receptacle of all <hi>Light,</hi> and placed by God in the Church to tranſmit it to the Preſbyters and Dea<g ref="char:EOLhyphen"/>cons (<hi>Stars</hi> of a leſſer <hi>Magnitude</hi>) by a <hi>due Ordination</hi> which in the conſequences, will let in an <hi>Egyptian blackneſſe;</hi> and even Eclips God himſelf, in the glo<g ref="char:EOLunhyphen"/>ry of his outward Courts here on Earth, which he wiſhes may be reſtored to its former luſtre, that <hi>is</hi>
+                  </p>
+                  <closer>
+                     <signed>Your Humble Servant</signed>
+                  </closer>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:106857:15"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
